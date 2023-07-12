@@ -1,3 +1,3 @@
-#This is a school management system
+# This is a school management system
 
-it has different functionality that is fun to uses 
+it has different functionality that is fun to uses! 
